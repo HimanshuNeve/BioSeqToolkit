@@ -1,0 +1,19 @@
+# Project outputs
+results/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Environments
+.venv/
+.env/
+venv/
+
+# Editor
+.vscode/
+.DS_Store
+Thumbs.db
